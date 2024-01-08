@@ -1,0 +1,31 @@
+body{
+  background-image: url(https://cdn.glitch.global/0f6327b2-42b9-41e3-8f9d-45f9a4ce5538/arena.jpg?v=1667421763198);
+  background-size: cover;
+}
+
+
+#the-forecast {
+  color: red;
+  text-align: center;
+  font-size: 6vmin;
+  font-family: "Nunito", sans-serif;
+  background-color: darkblue;
+}
+
+
+p{
+  color: red;
+  text-align: center;
+  font-size: 6vmin;
+  font-family: "Nunito", sans-serif;
+  background-color: darkblue;
+}
+
+img{
+height: 500px;
+width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
